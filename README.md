@@ -1,6 +1,5 @@
 - 👋 Eu sou a @CristianeBretas
-- Meu objetivo é entregar resultados, criar sites e projetos aproveitando ao máximo a nossa criatividade em benefício dos nossos
-clientes. Desenvolvendo trabalhos profissionais com ótimo custo e qualidade.
+- Meu objetivo é entregar resultados, criar sites e projetos aproveitando ao máximo a criatividade em benefício dos clientes. Desenvolvendo trabalhos profissionais com ótimo custo e qualidade.
 - 🌱 O que eu faço?
 - UML
 - HTML5 & CSS3
